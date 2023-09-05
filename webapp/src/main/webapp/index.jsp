@@ -34,7 +34,7 @@ Course :
 <label>   
 Gender :  
 </label><br>  
-<input type="radio" name="male"/> Gents <br>  
+<input type="radio" name="male"/> Gentss <br>  
 <input type="radio" name="female"/> Ladies <br>  
 <input type="radio" name="others"/> others  
 <br>  
