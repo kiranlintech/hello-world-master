@@ -9,7 +9,7 @@ Registration Page
 <br>  
 <form>  
   
-<label> Firstname </label>         
+<label> Firsti-ame </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
@@ -34,9 +34,9 @@ Course :
 <label>   
 Gender :  
 </label><br>  
-<input type="radio" name="Male"/> Male <br>  
-<input type="radio" name="Female"/> Female <br>  
-<input type="radio" name="Others"/> Other  
+<input type="radio" name="male"/> Gents <br>  
+<input type="radio" name="female"/> Ladies <br>  
+<input type="radio" name="others"/> others  
 <br>  
 <br>  
   
